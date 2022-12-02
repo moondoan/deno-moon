@@ -1,2 +1,0 @@
-# deno-moon
-Begin app
